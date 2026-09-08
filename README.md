@@ -1,68 +1,141 @@
 <h1 align="center">Hi 👋, I'm M. Mughni</h1>
-<h3 align="center">💻 Frontend Developer in Progress | University Student</h3>
+
+<h3 align="center">💻 Full Stack Developer in Progress | Informatics Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/m-mughni-69b15830b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://portofolio-mughni.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-I’m a university student who is learning web development by building real projects step by step.  
-This GitHub shows my **learning journey** — from early experiments to more focused and consistent work.
 
-I believe progress matters more than perfection, and I learn best by turning ideas into usable applications.
+I’m an Informatics student focused on becoming a **Full Stack Developer**.
+
+I learn by building real-world applications, starting from understanding the fundamentals and gradually improving my skills in frontend, backend, databases, APIs, and application architecture.
+
+Currently, I'm focusing on building practical projects that can solve real problems while preparing for **internships, freelance opportunities, and a career as a software engineer**.
+
+> Build projects. Understand the fundamentals. Improve continuously.
 
 ---
 
-## 🎯 Current Focus (2026)
-- Frontend development with **React & Next.js**
-- Styling with **Tailwind CSS**
-- Building small but real-world projects
-- Learning backend basics and better project structure
-- Preparing myself for freelance and professional work
+## 🎯 Current Focus
+
+* 🔹 Building full-stack web applications
+* 🔹 Deepening **Laravel & PHP** for backend development
+* 🔹 Improving **React & Next.js** skills
+* 🔹 Building RESTful APIs and authentication systems
+* 🔹 Working with **MySQL & PostgreSQL**
+* 🔹 Learning better database design and application architecture
+* 🔹 Building projects for **portfolio, freelance, and internship opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
+
+### Frontend
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Code-HTML5-orange?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Code-React-61DAFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### Backend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
+</p>
+
+### Database & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-## 📌 How to Read This GitHub
-- Older repositories → early learning & exploration phase  
-- Newer repositories → more focused, structured, and consistent projects  
-- Pinned repositories → represent my current skill level
+## 🚀 What I'm Building
+
+I’m currently working on projects that help me improve my ability to build complete applications, including:
+
+* 🏢 Information systems
+* 📊 Management & administrative systems
+* 🔐 Authentication & authorization
+* 🌐 RESTful APIs
+* 📱 Responsive web applications
+* 🗄️ Database-driven applications
+* 💼 Business-oriented applications
+
+My goal is not only to make applications work, but also to understand **how the frontend, backend, database, and business logic work together**.
+
+---
+
+## 📚 Learning Journey
+
+My current learning path is:
+
+```text
+Frontend
+   ↓
+React & Next.js
+   ↓
+Backend
+   ↓
+PHP & Laravel
+   ↓
+REST API & Authentication
+   ↓
+Database & Relationships
+   ↓
+Application Architecture
+   ↓
+Full Stack Development
+```
+
+I’m continuously improving through projects, experimentation, debugging, and studying how real-world applications are designed.
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" alt="streak" />
+ <img src="https://github-readme-stats.vercel.app/api?username=mughni-dev&show_icons=true&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mughni-dev&theme=radical" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
+
 <p align="left">
-<a href="[https://linkedin.com/in/YOUR-LINKEDIN" target="_blank](https://www.linkedin.com/in/m-mughni-69b15830b/)">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://l.instagram.com/?u=https%3A%2F%2Fportofolio-mughni.vercel.app%2F%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnAFV_7TqvDL4Xz364Ch1Uzz6wIxaJm6C0NbTDs9ZQeeyF9neTyuqCSEqNpD0_aem_EqVuNPtAqU6S8d1d75vmxQ&e=AT3Of9njOvJcR8XeeHKhPYUraz25V27QEaIywBepfvhkE5QR0QMxj4jWbymT63v3dR_2cDOdSkAbp6dnmgJuT59lnYjgzWGCmZYtHYrH5w" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/m-mughni-69b15830b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.mughni.web.id/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  💡 <i>"Build first, learn faster, improve continuously."</i>
+  💡 <i>"Build with purpose, learn from every project, and keep improving."</i>
 </p>
